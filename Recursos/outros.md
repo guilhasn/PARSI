@@ -84,4 +84,26 @@
 57. [Vulnerability Management](https://lnkd.in/g64maMet)  
 58. [Global IT Asset Inventory](https://lnkd.in/gXR5bD5N)  
 59. [Scanning](https://lnkd.in/g6cQjQuh)  
-60. [Reporting](https://lnkd.in/gs6Vn-DA)  
+60. [Reporting](https://lnkd.in/gs6Vn-DA)
+
+
+
+
+# FREE Online Cybersecurity Courses with Certifications
+
+1. [Introduction to Cybersecurity](https://www.edx.org/course/introdu…) – edX  
+2. [Google Cybersecurity Professional Certificate](https://www.coursera.org/google-certifi…) – Coursera  
+3. [Introduction to Cybersecurity](https://www.udacity.com/course/intro-t…) – Udacity  
+4. [Introduction to Cyber Security](https://www.simplilearn.com/learn-cyber-se…) – Simplilearn  
+5. [Security Engineer](https://www.udacity.com/course/securit…) – Udacity  
+6. [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-…) – Great Learning  
+7. [Cybersecurity for Everyone](https://www.coursera.org/learn/cybersec…) – Coursera  
+8. [Introduction to Cyber Security Specialization](https://www.coursera.org/specialization…) – Coursera  
+9. [Cybersecurity: Developing a Program for Your Business Specialization](https://www.coursera.org/specialization…) – Coursera  
+10. [Cloud Security Basics](https://www.coursera.org/learn/cloud) – Coursera  
+
+
+
+
+
+
