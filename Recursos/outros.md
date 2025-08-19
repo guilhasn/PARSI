@@ -103,6 +103,21 @@
 10. [Cloud Security Basics](https://www.coursera.org/learn/cloud) – Coursera  
 
 
+# FREE Certification in Cloud Security  
+**Breaking into cloud security**
+
+1. [AWS Security Fundamentals (Second Edition)](https://lnkd.in/day6K9XG) – AWS  
+2. [Introduction to Cloud Security](https://lnkd.in/drVq3bh5) – Simplilearn  
+3. [Cloud Computing Security](https://lnkd.in/dP6kSzNu) – University of Colorado System  
+4. [Become a Cloud Security Professional](https://lnkd.in/dZXfbqxA) – Oracle  
+5. [Cloud Governance Principle](https://lnkd.in/dZ-AiFy3) – Cybrary  
+6. [Cloud Security Assessment & Response](https://lnkd.in/grrHivcW) – Qualys  
+7. [Container Security](https://lnkd.in/gYNCGY8A) – Qualys  
+8. [20+ Free AWS Certs Related to Cybersecurity](https://lnkd.in/gjVduQen) – AWS  
+9. [Check Point Jump Start: Cloud Security](https://lnkd.in/d5PMGAqy) – Check Point  
+10. [Cloud Security With AWS IAM](https://lnkd.in/dmQ_5cVf) – AWS  
+11. [Cloud Computing Security](https://lnkd.in/gMTq2z2q) – CISA  
+12. [Cloud Security – What Leaders Need to Know](https://lnkd.in/gGYj9eiP) – CISA  
 
 
 
