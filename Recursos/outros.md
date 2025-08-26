@@ -121,4 +121,5 @@
 
 
 
-
+# Canais Youtube
+1. [Infosec Train](https://www.youtube.com/@InfosecTrain/videos)
