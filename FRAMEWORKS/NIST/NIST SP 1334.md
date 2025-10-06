@@ -51,4 +51,4 @@ As organizações devem:
 -------------
 A combinação de controlos físicos, técnicos e formação reduz significativamente os riscos. Consulte também os documentos NIST SP 800-82 Rev. 3, NIST SP 800-53 Rev. 5 e NIST SP 800-88 Rev. 2 para mais detalhe.
 
-[1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1334.pdf)
+[Consultar o documento aqui.](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1334.pdf)
