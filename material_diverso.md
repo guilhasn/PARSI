@@ -1,1 +1,3 @@
+
+- [PARSI - ACADEMY](https://parsi-academy.vercel.app/)
 - [Outros conteúdos de Cibersegurança](https://mixed-grapple-fe5.notion.site/148c417a626c80abbc4cfbdefcbd170e?v=14ac417a626c80ee8583000c08442ad3)
