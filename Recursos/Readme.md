@@ -1,5 +1,8 @@
 
 
+- [Calendário do Advento Cibersegurança 2025](https://calendario-de-advento-de-cibersegur-d73e8ab4.base44.app/)
+
+
 # 60 Cyber Security Courses
 
 ## Certificações Internacionais
