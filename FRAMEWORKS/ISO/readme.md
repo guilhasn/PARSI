@@ -1,2 +1,3 @@
 - [ISO27001](https://www.27001.pt/)
 - [Guia de Referência Rápida: Todos os Controles da ISO 27002](https://tiagosouza.com/controles-iso-27002-2022/)
+- [Detailed explanation of 11 new security controls in ISO 27001:2022](https://advisera.com/27001academy/explanation-of-11-new-iso-27001-2022-controls/)
